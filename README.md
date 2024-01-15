@@ -14,9 +14,11 @@ Awesome list of different profilers for memory, performance, and others in diffe
 * [gprof](https://ftp.gnu.org/old-gnu/Manuals/gprof-2.9.1/html_mono/gprof.html) - The GNU Profiler
 * [OProfile](https://oprofile.sourceforge.io/) - OProfile is an open-source project that includes a statistical profiler for Linux systems, capable of profiling all running code at low overhead.
 
-
 ## Tracing Tools
 * [bpftrace](https://bpftrace.org/) - High-level tracing language for Linux systems 
 * [ftrace](https://www.kernel.org/doc/html/v5.0/trace/ftrace.html) - Ftrace is an internal tracer designed to help developers and designers of systems to find what is going on inside the kernel.
 * [ltrace](https://ltrace.org/) - ltrace intercepts and records dynamic library calls which are called by an executed process and the signals received by that process.
 * [strace](https://github.com/strace/strace) - A diagnostic, debugging, and instructional userspace utility for Linux 
+
+## Others
+* [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool for different operating systems
