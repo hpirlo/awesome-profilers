@@ -8,8 +8,11 @@ Awesome list of different profilers for memory, performance, and others in diffe
 
 ## Performance Profilers
 ### Linux
-* [perf_events](https://www.brendangregg.com/perf.html) - An event-oriented observability tool, which can help you solve advanced performance and troubleshooting functions.
-* [LTTng](https://lttng.org/) - LTTng is an open-source tracing framework for Linux
+* [perf_events](https://www.brendangregg.com/perf.html) - An event-oriented observability tool, that can help you solve advanced performance and troubleshooting functions.
+* [LTTng](https://lttng.org/) - LTTng is an open-source tracing framework for Linux.
+* [Sysprof](https://www.sysprof.com/) - Sysprof is a statistical, system-wide profiler for Linux.
+* [gprof](https://ftp.gnu.org/old-gnu/Manuals/gprof-2.9.1/html_mono/gprof.html) - The GNU Profiler
+* [OProfile](https://oprofile.sourceforge.io/) - OProfile is an open-source project that includes a statistical profiler for Linux systems, capable of profiling all running code at low overhead.
 
 
 ## Tracing Tools
