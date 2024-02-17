@@ -21,5 +21,11 @@ Awesome list of different profilers for memory, performance, and others in diffe
 * [strace](https://github.com/strace/strace) - A diagnostic, debugging, and instructional userspace utility for Linux
 * [ptrace](https://man7.org/linux/man-pages/man2/ptrace.2.html) - Process trace for Linux systems
 
+## Python Profilers
+* [The Python Profilers](https://docs.python.org/3/library/profile.html) - 
+* [pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python. Shows you why your code is slow!
+* [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
+* [scalene](https://github.com/plasma-umass/scalene) - A high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
+
 ## Others
 * [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool for different operating systems
