@@ -1,10 +1,11 @@
 # Awesome Profilers
-Awesome list of different profilers for memory, performance, and others in various operating systems
+Awesome list of different profilers for memory, performance, and others in various operating systems.
 
 ## Memory Profilers
 ### Linux
 * [heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux.
 * [valgrind](https://valgrind.org/) - Valgrind is an instrumentation framework for building dynamic analysis tools.
+* [memtester](https://linux.die.net/man/8/memtester) - stress test to find memory subsystem faults.
 
 ## Performance Profilers
 ### Linux
