@@ -14,6 +14,7 @@ Awesome list of different profilers for memory, performance, and others in vario
 * [Sysprof](https://www.sysprof.com/) - Sysprof is a statistical, system-wide profiler for Linux.
 * [gprof](https://ftp.gnu.org/old-gnu/Manuals/gprof-2.9.1/html_mono/gprof.html) - The GNU Profiler.
 * [OProfile](https://oprofile.sourceforge.io/) - OProfile is an open-source project that includes a statistical profiler for Linux systems, capable of profiling all running code at low overhead.
+* [SystemTap](https://sourceware.org/systemtap/) - SystemTap provides free software (GPL) infrastructure to simplify the gathering of information about the running Linux system.
 
 ## Tracing Tools
 * [bpftrace](https://bpftrace.org/) - High-level tracing language for Linux systems.
